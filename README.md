@@ -7,6 +7,7 @@
 - 📚 Estudante de Engenharia de Computação - Universidade Estadual de Feira de Santana
 
 ### Ferramentas e Tecnologias
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <!--<img src="Linkaqui" width="40" height="40"/> Esse e pro verilog--> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
@@ -25,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 -->          
-
+</div>
 ##
 <div>
   <a href="https://github.com/LordWalace">
