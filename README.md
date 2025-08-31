@@ -28,7 +28,7 @@
 -->          
 </div>
 ##
-<div>
+<div align="center">
   <a href="https://github.com/LordWalace">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordWalace&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordWalace&layout=compact&&theme=tokyonight"/>
