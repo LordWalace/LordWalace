@@ -2,9 +2,9 @@
 
 ## Bem vindo ao meu perfil GitHub 👋 (Em desenvolvimento)
 
-- 🧑‍💻 Desenvolvedor de Software
+- 🧑‍💻 Software Developer Jr
 - 🌐 Web Developer Jr
-- 📚 Estudante de Engenharia de Computação - Universidade Estadual de Feira de Santana
+- 📚 Computer Engineering Student - State University of Feira de Santana
 
 ### Ferramentas e Tecnologias
 <div>
